@@ -15,4 +15,4 @@ Dummy Swing
 https://github.com/boykis82/dummy-swing
 
 Event Bus
-https://github.com/boykis82/olmago-event-bus
+https://github.com/boykis82/olmago-message-bus
